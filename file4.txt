@@ -1,1 +1,1 @@
-resoleve merge conflicts
+resolve merge conflicts
