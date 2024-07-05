@@ -1,2 +1,6 @@
+<<<<<<< HEAD
  hisdkfpe
  switch content 
+=======
+ hisdkfpe
+>>>>>>> feature
